@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.vijaya.earthquakeapp">
 
+<!--TODO 5: Add internet permission-->
     <uses-permission android:name="android.permission.INTERNET"/> <!--must be added-->
 
     <application
